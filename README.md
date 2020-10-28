@@ -12,13 +12,13 @@ Aplikasi pemesanan tiket pesawat yang mempunyai beberapa fitur, yaitu pencarian 
   2. Pencarian
   
 ## Data Penerbangan :
-   From: Medan
-   To: Tokyo
-   Type: Oneway
-   Date Departure: 17 Oktober 2020
-   Child: 1
-   Adult: 1
-   Class: First Class
+  1. From: Medan
+  2. To: Tokyo
+  3. Type: Oneway
+  4. Date Departure: 17 Oktober 2020
+  5. Child: 1
+  6. Adult: 1
+  7. Class: First Class
    
    
    
