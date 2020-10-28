@@ -1,5 +1,5 @@
 # Ankasa
-Aplikasi pemesanan tiket pesawat yang mempunyai beberapa fitur, yaitu pencarian tiket, pemesanan/booking, rekomendasi tempat-tempat yang sering dikunjungi. Pembuatan aplikasi ini mneggunakan teknologi MEVN (MySQL, ExpressJS, VueJS, NodeJS), dalam pengembangan aplikasi ini kami menggunakan MySQL untuk databasenya, ExpressJS dan NodeJS untuk Backendnya dan VueJS untuk Frontendnya.
+Aplikasi pemesanan tiket pesawat yang mempunyai beberapa fitur, yaitu pencarian tiket, pemesanan/booking, rekomendasi tempat-tempat yang sering dikunjungi. Pembuatan aplikasi ini menggunakan teknologi MEVN (MySQL, ExpressJS, VueJS, NodeJS), dalam pengembangan aplikasi ini kami menggunakan MySQL untuk databasenya, ExpressJS dan NodeJS untuk Backendnya dan VueJS untuk Frontendnya.
 
 ## Framework dan Library yang digunakan :
   1. NodeJS
