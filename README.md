@@ -10,7 +10,18 @@ Aplikasi pemesanan tiket pesawat yang mempunyai beberapa fitur, yaitu pencarian 
 ## Fitur-fitur :
   1. Pemesanan
   2. Pencarian
-
+  
+## Data Penerbangan :
+   From: Medan
+   To: Tokyo
+   Type: Oneway
+   Date Departure: 17 Oktober 2020
+   Child: 1
+   Adult: 1
+   Class: First Class
+   
+   
+   
 ## Tampilan Website:
 
 ![landing](https://user-images.githubusercontent.com/57606080/96555784-6452f800-12e2-11eb-9829-6be2f18dc840.PNG)
