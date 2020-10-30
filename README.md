@@ -19,6 +19,15 @@ Aplikasi pemesanan tiket pesawat yang mempunyai beberapa fitur, yaitu pencarian 
   5. Child: 1
   6. Adult: 1
   7. Class: First Class
+  
+  ## Link Demo :
+  http://bit.ly/hirejob-app
+  
+  ## Github Frontend :
+  https://github.com/rizaradiarivaldo/ANKASA-TICKETING-FRONTEND
+  
+  ## Github Backend :
+  https://github.com/rizaradiarivaldo/ANKASA-TICKETING-BACKEND
    
    
    
